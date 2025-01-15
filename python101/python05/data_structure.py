@@ -26,3 +26,9 @@ for name, employees_info in employees.items():
     print(f"Role: {employees_info[1]}")
     print(f"country: {employees_info[-1]}")
 
+
+for info in employees_info:
+    print(info)
+    
+
+

@@ -76,8 +76,3 @@ for key in cities:
 for city in cities2.values():
     print(city)
 
-
-
-
-
-

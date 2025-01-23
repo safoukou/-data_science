@@ -36,7 +36,7 @@ print(user)
 
 """Author: joel
    date: 2025-01-11
-   decription: Thisis a multiline comment
+   decription: This is a multiline comment
    License: MIT
    """
 is_adult = False

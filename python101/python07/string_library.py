@@ -2,6 +2,8 @@ import string
 #find if a sentence contains only ascii letters
 #-we determine class of Stringlibrary
 #-we define the class and initialse with __init__
+#-we define if is_appening
+#
 class StringLibrary:  # this is a camelcase namimg
     
     def __init__(self, sentence):
